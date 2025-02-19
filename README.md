@@ -25,5 +25,6 @@ Segui o tutorial e explorei três formas de criação de copilotos:
 Achei mais fácil do que imaginava e foi interessante ver as respostas do copiloto em tempo real!  
 ## 🖼️ Teste do Copiloto
 Aqui está um print do teste da última criação:
+https://github.com/pmarangon/copilot-studio-exploration/blob/main/teste_copilo_embranco.jpg
 
 
